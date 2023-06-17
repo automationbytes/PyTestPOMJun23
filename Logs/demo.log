@@ -1,0 +1,10 @@
+2023-06-17 09:52:18,629 - INFO - ====== WebDriver manager ======
+2023-06-17 09:52:21,431 - INFO - Driver [C:\Users\Vigne\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-17 09:52:22,902 - INFO - ------------PreStep------------
+2023-06-17 09:52:23,917 - INFO - -------------Login---------------
+2023-06-17 09:52:24,427 - INFO - -------------verify homepage -------------------
+2023-06-17 09:52:34,857 - INFO - ====== WebDriver manager ======
+2023-06-17 09:52:37,117 - INFO - Driver [C:\Users\Vigne\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-17 09:52:38,552 - INFO - ------------PreStep------------
+2023-06-17 09:52:40,459 - INFO - -------------Login---------------
+2023-06-17 09:52:40,982 - INFO - ------------- Sorting -------------------
